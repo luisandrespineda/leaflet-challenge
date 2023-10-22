@@ -7,4 +7,6 @@ The css file used for this hw is located in 'Starter_Code/static/css' and is lab
 
 Class activities were used to write the base of the code while ChatGPT was used to trouble shoot the code.
 
-The code uses a javascript file to pull the JSONified data from the GeoJason database. 
+The code uses a javascript file to pull the JSONified data from the GeoJason database and loops through the database to extract location, magnitude, and depth. The data is used to create and stylize the markers.
+
+The CSS styles the legend.
